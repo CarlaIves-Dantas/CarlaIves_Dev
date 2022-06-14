@@ -58,14 +58,28 @@ Acessar a pasta do diretório C / com o botão direito acessar Git Here/ com o G
 
 Digite o comando: **mkdir** Workspace (enter)
 acessar a pasta: **cd** workspace
-Criar a pasta: **mkdir** Desafio_GitHub (enter)
-Acessar pasta: **cd** Desafio_GitHub (apertar TAB para preencher o nome mais rápido)
+Criar a pasta: **mkdir** Nome do repositório (enter)
+Acessar pasta: **cd** Nome do repositório (apertar TAB para preencher o nome mais rápido)
 Inicializar o Git dentro da Pasta para que possa ser versionada: **git init**
 Para visualizar a pasta oculta de gerenciamento do git: **ls -a**
 
-**cd ..** (retorna a pasta Desafio_GitHub)
+**cd ..** (retorna a pasta repositório)
 
 ##### 4.1.2 Criando o autor dos commits
+
+verificando identidade configurada para assinatura dos commits:
+
+git config --list (aparece todas as configurações listadas, atentar para user.email e user.name)
+
+Caso sejam diferentes do email e usuário do GitHub, deletar esses dados e configurar com os dados do Github conforme comandos:
+
+git config --global --unset user.email "email@registrado.com"
+
+git config --global --unset user name "nome registrado"
+
+Se você der git config --list você irá observar que esses dois dados foram apagados das configurações.
+
+Para inserir os dados corretos:
 
 git config --global user.email "email@email.com"
 git config --global user.name "nome"
