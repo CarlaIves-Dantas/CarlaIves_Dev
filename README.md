@@ -2,7 +2,7 @@
 
 Este é o meu livro de anotações dos comandos básicos e primeiros trabalhos com o Git/GitHub.
 
-Agradeço qualquer correção ou inserção de novos comandos e orientações.
+Qualquer correção ou inserção de novos comandos e orientações ficarei imensamente agradecida.
 
 ### **Sumário**
 
