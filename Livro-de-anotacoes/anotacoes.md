@@ -67,7 +67,7 @@ Para visualizar a pasta oculta de gerenciamento do git: **ls -a**
 
 ##### 4.1.2 Criando o autor dos commits
 
-verificando identidade configurada para assinatura dos commits:
+Verificando identidade configurada para assinatura dos commits:
 
 git config --list (aparece todas as configurações listadas, atentar para user.email e user.name)
 

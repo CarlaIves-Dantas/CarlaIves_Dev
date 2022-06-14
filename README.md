@@ -1,4 +1,4 @@
-### Bem Vindos! :person_frowning:
+### Bem Vindos!
 
 Este é o meu livro de anotações dos comandos básicos e primeiros trabalhos com o Git/GitHub.
 
