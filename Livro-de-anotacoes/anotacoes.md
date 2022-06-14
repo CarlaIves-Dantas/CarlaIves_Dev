@@ -10,11 +10,11 @@ Listar as pastas: **dir**                                                       
 Deletar arquivos: **del**                                                     **rm** 
 Deletar pasta: **rmdir nome do diretório /s /q**         **rf**
 
-## 2. Criar Perfil no GitHub
+# 2. Criar Perfil no GitHub
 
 https://github.com
 
-## 3. Criar Chave SSH
+# 3. Criar Chave SSH
 
 https://github.com/settings/keys
 
@@ -46,7 +46,7 @@ ssh-add id-ed25519 (enter)
 insere a mesma senha criada para chave ssh
 Identidade Adicionada
 
-## 4. Primeiros Comandos no Git
+# 4. Primeiros Comandos no Git
 
 ### 4.1 Iniciar Git 
 
